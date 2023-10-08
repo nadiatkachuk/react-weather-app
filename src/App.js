@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <footer>
-        This project was coded by Nadiia Tkachuk
+        This project was coded by Nadiia Tkachuk {""}
         <a
           href="https://github.com/nadiatkachuk/react-weather-app"
           target="_blank"
